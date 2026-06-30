@@ -1,6 +1,16 @@
 # 🚀 Yonatan Afengar
 
-> Senior BI Developer transitioning into Data Engineering through hands-on engineering projects.
+> **Senior BI Developer transitioning into Data Engineering by building production-style engineering projects.**
+
+---
+
+## 👋 About Me
+
+I'm a BI Developer with several years of experience designing data solutions, ETL processes and analytics platforms.
+
+Instead of learning technologies only through courses, I build production-style projects focused on software engineering, documentation and clean architecture.
+
+My goal is to become a Data Engineer with strong engineering fundamentals and a portfolio that demonstrates real technical growth.
 
 ---
 
