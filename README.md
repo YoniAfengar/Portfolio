@@ -1,16 +1,12 @@
 # 🚀 Yonatan Afengar
 
-> **Senior BI Developer transitioning into Data Engineering by building production-style engineering projects.**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 👋 About Me
-
-I'm a BI Developer with several years of experience designing data solutions, ETL processes and analytics platforms.
-
-Instead of learning technologies only through courses, I build production-style projects focused on software engineering, documentation and clean architecture.
-
-My goal is to become a Data Engineer with strong engineering fundamentals and a portfolio that demonstrates real technical growth.
+> **Senior BI Developer building production-style Data Engineering projects through hands-on learning and engineering best practices.**
 
 ---
 
@@ -18,39 +14,39 @@ My goal is to become a Data Engineer with strong engineering fundamentals and a 
 
 Welcome to my engineering portfolio.
 
-This repository serves as the central hub for my professional projects, technical journey and continuous learning.
+This repository is the central hub for my professional projects, technical journey and continuous learning.
 
-Rather than showcasing tutorials or course exercises, every project here is built to solve a real problem, explore a specific technology and demonstrate engineering best practices.
+My goal is to build production-style projects that demonstrate clean architecture, engineering thinking and high-quality documentation while expanding my expertise in modern Data Engineering.
 
 ---
 
 # 💼 Professional Background
 
-I have several years of experience designing and developing Business Intelligence solutions, working with SQL, ETL processes, data modeling and analytics.
+I have several years of experience designing and developing Business Intelligence solutions, working extensively with SQL, ETL processes, data modeling and analytics.
 
-Today I'm expanding my expertise into modern Data Engineering by building production-style projects focused on engineering quality, documentation and clean architecture.
+Today I'm intentionally expanding my engineering skills by building real-world projects focused on Python, Docker, Linux and modern Data Engineering technologies.
 
 ---
-
-# 🛠 Technical Skills
 
 # 🛠 Technical Skills
 
 | Category | Technologies |
-|----------|--------------|
-| Programming | Python, SQL |
-| Databases | SQL Server, Oracle (PL/SQL) |
-| BI & Analytics | Power BI, SSIS, SSAS, IBM DataStage |
-| Tools | Git, GitHub, Docker, Linux |
-| Currently Learning | Data Engineering, MyST |
-
-# 🚀 Featured Engineering Projects
+|-----------|--------------|
+| **Programming** | Python, SQL |
+| **Databases** | SQL Server, Oracle (PL/SQL) |
+| **BI & Analytics** | Power BI, SSIS, SSAS, IBM DataStage |
+| **Tools** | Git, GitHub, Docker, Linux |
+| **Currently Learning** | Data Engineering, MyST |
 
 ---
 
+# 🚀 Featured Engineering Projects
+
 ## 📚 MyST Docs Platform
 
-A production-ready documentation platform built with **MyST** and **Docker**.
+![MyST Docs Platform](screenshots/myst-docs-platform.png)
+
+> **Production-ready documentation platform built with MyST and Docker.**
 
 ### 🎯 Purpose
 
@@ -84,17 +80,19 @@ https://github.com/YoniAfengar/myst-docs-platform
 
 ### 🏷 Latest Release
 
-v0.2.0
+**v0.2.0**
 
 ---
 
 More featured projects will be added as they are completed.
 
+---
+
 # 📈 Engineering Journey
 
-My goal is continuous improvement through real-world projects.
+I believe the best way to learn is by building.
 
-Every repository focuses on one technology, one learning objective and one production-style implementation.
+Every repository in this portfolio represents a complete engineering project with clear goals, documentation, version history and continuous improvement.
 
 ---
 
@@ -106,20 +104,20 @@ Coming soon.
 
 # 📬 Contact
 
-GitHub:
+**GitHub**
 
 https://github.com/YoniAfengar
 
-LinkedIn:
+**LinkedIn**
 
 Coming soon.
 
 ---
 
-# 🎯 Philosophy
+# 🎯 Engineering Philosophy
 
-> Learn deeply.
+> **Learn deeply.**
 >
-> Build professionally.
+> **Build professionally.**
 >
-> Document everything.
+> **Document everything.**
