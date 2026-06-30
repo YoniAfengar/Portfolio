@@ -1,12 +1,12 @@
-# 🚀 Yonatan Afengar
+# 👋 Hi, I'm Yonatan Afengar
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-> **Senior BI Developer building production-style Data Engineering projects through hands-on learning and engineering best practices.**
+> **Senior BI Developer transitioning into Data Engineering by building production-style projects focused on Python, Docker, SQL, Linux, and modern data platforms.**
 
 ---
 
@@ -14,67 +14,72 @@
 
 Welcome to my engineering portfolio.
 
-This repository is the central hub for my professional projects, technical journey and continuous learning.
+This repository serves as the central hub for my software engineering projects, technical learning journey, and continuous professional growth.
 
-My goal is to build production-style projects that demonstrate clean architecture, engineering thinking and high-quality documentation while expanding my expertise in modern Data Engineering.
+My objective is to build production-style projects that demonstrate clean architecture, engineering best practices, reproducible environments, and high-quality technical documentation.
 
 ---
 
 # 💼 Professional Background
 
-I have several years of experience designing and developing Business Intelligence solutions, working extensively with SQL, ETL processes, data modeling and analytics.
+I have several years of experience designing and developing Business Intelligence solutions, working extensively with SQL, ETL processes, data modeling, analytics, and enterprise data platforms.
 
-Today I'm intentionally expanding my engineering skills by building real-world projects focused on Python, Docker, Linux and modern Data Engineering technologies.
+Today I'm expanding my engineering expertise by building real-world projects focused on Python, Docker, Linux, Git, and modern Data Engineering technologies.
 
 ---
 
 # 🛠 Technical Skills
 
-| Category | Technologies |
-|-----------|--------------|
-| **Programming** | Python, SQL |
-| **Databases** | SQL Server, Oracle (PL/SQL) |
-| **BI & Analytics** | Power BI, SSIS, SSAS, IBM DataStage |
-| **Tools** | Git, GitHub, Docker, Linux |
-| **Currently Learning** | Data Engineering, MyST |
+| Category               | Technologies                        |
+| ---------------------- | ----------------------------------- |
+| **Programming**        | Python, SQL                         |
+| **Databases**          | SQL Server, Oracle (PL/SQL)         |
+| **BI & Analytics**     | Power BI, SSIS, SSAS, IBM DataStage |
+| **Tools**              | Git, GitHub, Docker, Linux          |
+| **Currently Learning** | Data Engineering, MyST, Jupyter     |
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🌟 Featured Engineering Project
 
 ## 📚 MyST Docs Platform
 
 ![MyST Docs Platform](screenshots/myst-docs-platform.png)
 
-> **Production-ready documentation platform built with MyST and Docker.**
+> **Production-style documentation platform built with MyST, Docker, and Jupyter Notebooks.**
 
-### 🎯 Purpose
+### 🎯 Project Goal
 
-Learn MyST by building a real documentation platform while following modern engineering practices.
+Design and build a production-style documentation platform using MyST, Docker, and Jupyter while following modern software engineering best practices.
 
 ### 🛠 Technologies
 
-- MyST
-- Docker
-- Docker Compose
-- Markdown
-- Git
-- GitHub
+* Python
+* MyST
+* Jupyter Notebook
+* Docker
+* Docker Compose
+* Markdown
+* Git
+* GitHub
 
 ### ⭐ Highlights
 
-- Multi-page documentation
-- Interactive Playground
-- Mermaid diagrams
-- MyST Directives
-- MyST Roles
-- Cross References
-- Cards & Tabs
-- Architecture documentation
-- Professional README
-- GitHub Releases
+* Production-style project architecture
+* Multi-page documentation
+* Interactive Playground
+* Executable Jupyter Notebooks
+* Mermaid diagrams
+* MyST Directives & Roles
+* Cross References
+* Cards & Tabs
+* Dockerized development environment
+* Professional project documentation
+* GitHub Releases
 
 ### 🔗 Repository
+
+**GitHub Repository**
 
 https://github.com/YoniAfengar/myst-docs-platform
 
@@ -84,33 +89,43 @@ https://github.com/YoniAfengar/myst-docs-platform
 
 ---
 
-More featured projects will be added as they are completed.
+# 🚧 Upcoming Projects
+
+Additional projects will be added as they are completed.
+
+* 🏀 NBA Analytics Dashboard
+* 📊 SQL Analytics Projects
+* 🐍 Python Automation Projects
+* ⚙️ Data Engineering Pipelines
+* ☁️ Docker & Cloud Projects
 
 ---
 
 # 📈 Engineering Journey
 
-I believe the best way to learn is by building.
+I believe the best way to learn engineering is by building.
 
-Every repository in this portfolio represents a complete engineering project with clear goals, documentation, version history and continuous improvement.
+Every repository in this portfolio represents a complete project with clear objectives, version history, technical documentation, and continuous improvement.
+
+Rather than collecting small code snippets, I focus on developing projects that resemble real production environments and demonstrate practical engineering skills.
 
 ---
 
 # 📄 Resume
 
-Coming soon.
+Available upon request.
 
 ---
 
 # 📬 Contact
 
-**GitHub**
+### GitHub
 
 https://github.com/YoniAfengar
 
-**LinkedIn**
+### LinkedIn
 
-Coming soon.
+*Coming soon.*
 
 ---
 
