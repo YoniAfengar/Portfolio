@@ -34,32 +34,15 @@ Today I'm expanding my expertise into modern Data Engineering by building produc
 
 # 🛠 Technical Skills
 
-## Languages
+# 🛠 Technical Skills
 
-- Python
-- SQL
-
-## Data
-
-- SQL Server
-- PL/SQL
-- ETL
-- Data Modeling
-
-## BI
-
-- Power BI
-- SSIS
-- SSAS
-- IBM DataStage
-
-## Engineering
-
-- Git
-- GitHub
-- Docker
-- Linux
-- MyST Documentation
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python, SQL |
+| Databases | SQL Server, Oracle (PL/SQL) |
+| BI & Analytics | Power BI, SSIS, SSAS, IBM DataStage |
+| Tools | Git, GitHub, Docker, Linux |
+| Currently Learning | Data Engineering, MyST |
 
 # 🚀 Featured Engineering Projects
 
