@@ -118,13 +118,8 @@ Available upon request.
 
 # 📬 Contact
 
-### GitHub
-
-https://github.com/YoniAfengar
-
-### LinkedIn
-
-*Coming soon.*
+- **GitHub:** https://github.com/YoniAfengar
+- **LinkedIn:** https://www.linkedin.com/in/yonatan-afengar-92bb18155/
 
 ---
 
