@@ -112,7 +112,9 @@ Rather than collecting small code snippets, I focus on developing projects that 
 
 # 📄 Resume
 
-Available upon request.
+My resume is currently being updated to reflect my latest Data Engineering projects and technical experience.
+
+It will be available here soon.
 
 ---
 
