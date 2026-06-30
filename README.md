@@ -79,9 +79,8 @@ Design and build a production-style documentation platform using MyST, Docker, a
 
 ### 🔗 Repository
 
-**GitHub Repository**
+➡️ **[MyST Docs Platform Repository](https://github.com/YoniAfengar/myst-docs-platform)**
 
-https://github.com/YoniAfengar/myst-docs-platform
 
 ### 🏷 Latest Release
 
