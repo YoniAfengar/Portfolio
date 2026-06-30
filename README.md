@@ -51,20 +51,51 @@ Today I'm expanding my expertise into modern Data Engineering by building produc
 - Linux
 - MyST Documentation
 
----
-
 # 🚀 Featured Engineering Projects
 
-Projects shown here represent my best engineering work.
+---
 
-| Project | Description | Status |
-|----------|-------------|--------|
-| 📚 MyST Docs Platform | Production-ready documentation platform built with MyST and Docker | ✅ Completed |
-| 🐳 Docker Playground | Learning Docker through real engineering examples | 🚧 Planned |
-| 🔄 Airflow ETL Pipeline | Building modern ETL workflows | 🚧 Planned |
-| 🐍 Python Automation Toolkit | Practical automation tools | 🚧 Planned |
+## 📚 MyST Docs Platform
+
+A production-ready documentation platform built with **MyST** and **Docker**.
+
+### 🎯 Purpose
+
+Learn MyST by building a real documentation platform while following modern engineering practices.
+
+### 🛠 Technologies
+
+- MyST
+- Docker
+- Docker Compose
+- Markdown
+- Git
+- GitHub
+
+### ⭐ Highlights
+
+- Multi-page documentation
+- Interactive Playground
+- Mermaid diagrams
+- MyST Directives
+- MyST Roles
+- Cross References
+- Cards & Tabs
+- Architecture documentation
+- Professional README
+- GitHub Releases
+
+### 🔗 Repository
+
+https://github.com/YoniAfengar/myst-docs-platform
+
+### 🏷 Latest Release
+
+v0.2.0
 
 ---
+
+More featured projects will be added as they are completed.
 
 # 📈 Engineering Journey
 
