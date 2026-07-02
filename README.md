@@ -6,74 +6,102 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-> **Senior BI Developer building modern Data Engineering solutions through production-grade projects focused on Python, SQL, Docker, Git, Linux, and modern engineering practices.**
+> **Senior BI Developer with 5+ years of experience delivering enterprise Business Intelligence solutions and expanding into modern Data Engineering through production-grade projects.**
+
+---
+
+# 👨‍💻 About This Portfolio
+
+Welcome to my engineering portfolio.
+
+This repository showcases hands-on projects that reflect my journey from Business Intelligence to modern Data Engineering.
+
+Each project is built with the same principles I apply professionally:
+
+- Clean architecture
+- Reproducible environments
+- Technical documentation
+- Version control
+- Engineering best practices
+
+Rather than collecting small code samples, I focus on building complete, production-grade projects that solve real engineering problems.
 
 ---
 
 # 💼 Professional Background
 
-I have over 5 years of experience designing and delivering Business Intelligence and enterprise data solutions using SQL, ETL processes, IBM DataStage, PL/SQL, and Python.
+I'm a Senior BI Developer with over five years of experience designing, developing, and maintaining enterprise Business Intelligence solutions.
 
-Alongside my professional work, I build production-grade engineering projects focused on modern Data Engineering, software architecture, Docker, Git, Linux, and technical documentation.
+My professional experience includes:
+
+- SQL & PL/SQL
+- IBM InfoSphere DataStage
+- Enterprise ETL processes
+- Backend data integration
+- Data Warehousing
+- Business Intelligence platforms
+- Python-based data processing
+
+Alongside my professional work, I continuously build engineering projects to deepen my expertise in Python, Docker, Git, Linux, Apache Airflow, PySpark, and modern Data Engineering practices.
 
 ---
 
 # 🚀 Current Focus
 
 - Building production-grade Data Engineering projects
-- Expanding expertise in Apache Airflow and PySpark
-- Creating modern technical documentation with MyST
-- Applying software engineering best practices
-- Continuous hands-on learning
+- Designing scalable ETL and data pipeline solutions
+- Expanding expertise in Apache Airflow & PySpark
+- Writing clean, maintainable technical documentation with MyST
+- Continuously improving software engineering practices
 
 ---
 
 # 🛠 Technical Skills
 
 | Category | Technologies |
-|----------|--------------|
+|-----------|--------------|
 | **Programming** | Python |
 | **Query Languages** | SQL, T-SQL, PL/SQL |
 | **Databases** | SQL Server, Oracle, PostgreSQL |
-| **BI & ETL** | IBM DataStage, SSIS, SSAS, Power BI |
+| **BI & ETL** | IBM InfoSphere DataStage, SSIS, SSAS, Power BI |
 | **Engineering** | Docker, Git, Linux |
-| **Currently Learning** | Apache Airflow, PySpark, Data Engineering |
+| **Currently Learning** | Apache Airflow, PySpark, Modern Data Engineering |
 
 ---
 
-# 🌟 Featured Engineering Project
+# 🌟 Featured Project
 
 ## 📚 Developer Documentation Platform
 
 ![MyST Docs Platform](screenshots/myst-docs-platform.png)
 
-> **Production-grade documentation platform built with MyST, Docker, Git, Linux, and Jupyter Notebooks.**
+> **Production-grade documentation platform built with MyST Markdown, Docker, Git, Linux, and Jupyter Notebooks.**
 
 ### 🎯 Project Goal
 
-Design and build a production-grade documentation platform using MyST, Docker, and Jupyter while following modern software engineering best practices.
+Develop a production-grade documentation platform using MyST Markdown, Docker, and Jupyter while applying modern software engineering principles, version control, and containerized development workflows.
 
 ### 🛠 Technologies
 
 - Python
 - MyST Markdown
-- Jupyter Notebook
 - Docker
 - Docker Compose
 - Git
 - GitHub
+- Jupyter Notebook
 - Markdown
 
 ### ⭐ Highlights
 
 - Production-grade project architecture
 - Multi-page documentation
-- Interactive Playground
-- Executable Jupyter Notebooks
+- Interactive playground
+- Executable Jupyter notebooks
 - Mermaid diagrams
-- MyST Directives & Roles
-- Cross References
-- Cards & Tabs
+- MyST directives & roles
+- Cross references
+- Cards & tabs
 - Dockerized development environment
 - Professional technical documentation
 - GitHub Releases
@@ -82,29 +110,27 @@ Design and build a production-grade documentation platform using MyST, Docker, a
 
 ➡️ **[MyST Docs Platform Repository](https://github.com/YoniAfengar/myst-docs-platform)**
 
-### 🏷 Latest Release
-
-**v0.2.0**
+**Latest Release:** `v0.2.0`
 
 ---
 
-# 📊 Upcoming Projects
+# 📂 Upcoming Projects
 
-- 📈 Data Analytics Portfolio
-- ⚙️ Enterprise ETL Pipelines
-- 🐍 Python Automation Projects
-- ☁️ Cloud & Containerized Applications
-- 🚀 End-to-End Data Engineering Projects
+- 📊 Data Analytics Portfolio
+- ⚙️ Enterprise ETL Pipeline
+- 🐍 Python Automation Toolkit
+- ☁️ Containerized Data Applications
+- 🚀 End-to-End Data Engineering Platform
 
 ---
 
 # 📈 Engineering Journey
 
-I believe the best way to learn engineering is by building real projects.
+I believe the best way to learn engineering is by building.
 
-Each repository represents a complete solution with clear objectives, version history, technical documentation, and continuous improvement.
+Every repository in this portfolio represents a complete project with clear objectives, technical documentation, version history, and continuous improvement.
 
-Rather than collecting isolated code snippets, I focus on creating production-grade projects that reflect real engineering practices and demonstrate practical problem-solving skills.
+My goal is not simply to learn new technologies, but to understand how they fit together to build reliable, maintainable, and scalable software solutions.
 
 ---
 
@@ -116,8 +142,8 @@ Rather than collecting isolated code snippets, I focus on creating production-gr
 
 # 📬 Contact
 
-- 💻 GitHub: https://github.com/YoniAfengar
-- 💼 LinkedIn: https://www.linkedin.com/in/yonatan-afengar-92bb18155/
+- 💻 GitHub: **https://github.com/YoniAfengar**
+- 💼 LinkedIn: **https://www.linkedin.com/in/yonatan-afengar-92bb18155/**
 
 ---
 
