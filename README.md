@@ -1,86 +1,86 @@
 # 👋 Hi, I'm Yonatan Afengar
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-> **Senior BI Developer transitioning into Data Engineering by building production-style projects focused on Python, Docker, SQL, Linux, and modern data platforms.**
-
----
-
-# 👋 Welcome
-
-Welcome to my engineering portfolio.
-
-This repository serves as the central hub for my software engineering projects, technical learning journey, and continuous professional growth.
-
-My objective is to build production-style projects that demonstrate clean architecture, engineering best practices, reproducible environments, and high-quality technical documentation.
+> **Senior BI Developer building modern Data Engineering solutions through production-grade projects focused on Python, SQL, Docker, Git, Linux, and modern engineering practices.**
 
 ---
 
 # 💼 Professional Background
 
-I have several years of experience designing and developing Business Intelligence solutions, working extensively with SQL, ETL processes, data modeling, analytics, and enterprise data platforms.
+I have over 5 years of experience designing and delivering Business Intelligence and enterprise data solutions using SQL, ETL processes, IBM DataStage, PL/SQL, and Python.
 
-Today I'm expanding my engineering expertise by building real-world projects focused on Python, Docker, Linux, Git, and modern Data Engineering technologies.
+Alongside my professional work, I build production-grade engineering projects focused on modern Data Engineering, software architecture, Docker, Git, Linux, and technical documentation.
+
+---
+
+# 🚀 Current Focus
+
+- Building production-grade Data Engineering projects
+- Expanding expertise in Apache Airflow and PySpark
+- Creating modern technical documentation with MyST
+- Applying software engineering best practices
+- Continuous hands-on learning
 
 ---
 
 # 🛠 Technical Skills
 
-| Category               | Technologies                        |
-| ---------------------- | ----------------------------------- |
-| **Programming**        | Python, SQL                         |
-| **Databases**          | SQL Server, Oracle (PL/SQL)         |
-| **BI & Analytics**     | Power BI, SSIS, SSAS, IBM DataStage |
-| **Tools**              | Git, GitHub, Docker, Linux          |
-| **Currently Learning** | Data Engineering, MyST, Jupyter     |
+| Category | Technologies |
+|----------|--------------|
+| **Programming** | Python |
+| **Query Languages** | SQL, T-SQL, PL/SQL |
+| **Databases** | SQL Server, Oracle, PostgreSQL |
+| **BI & ETL** | IBM DataStage, SSIS, SSAS, Power BI |
+| **Engineering** | Docker, Git, Linux |
+| **Currently Learning** | Apache Airflow, PySpark, Data Engineering |
 
 ---
 
 # 🌟 Featured Engineering Project
 
-## 📚 MyST Docs Platform
+## 📚 Developer Documentation Platform
 
 ![MyST Docs Platform](screenshots/myst-docs-platform.png)
 
-> **Production-style documentation platform built with MyST, Docker, and Jupyter Notebooks.**
+> **Production-grade documentation platform built with MyST, Docker, Git, Linux, and Jupyter Notebooks.**
 
 ### 🎯 Project Goal
 
-Design and build a production-style documentation platform using MyST, Docker, and Jupyter while following modern software engineering best practices.
+Design and build a production-grade documentation platform using MyST, Docker, and Jupyter while following modern software engineering best practices.
 
 ### 🛠 Technologies
 
-* Python
-* MyST
-* Jupyter Notebook
-* Docker
-* Docker Compose
-* Markdown
-* Git
-* GitHub
+- Python
+- MyST Markdown
+- Jupyter Notebook
+- Docker
+- Docker Compose
+- Git
+- GitHub
+- Markdown
 
 ### ⭐ Highlights
 
-* Production-style project architecture
-* Multi-page documentation
-* Interactive Playground
-* Executable Jupyter Notebooks
-* Mermaid diagrams
-* MyST Directives & Roles
-* Cross References
-* Cards & Tabs
-* Dockerized development environment
-* Professional project documentation
-* GitHub Releases
+- Production-grade project architecture
+- Multi-page documentation
+- Interactive Playground
+- Executable Jupyter Notebooks
+- Mermaid diagrams
+- MyST Directives & Roles
+- Cross References
+- Cards & Tabs
+- Dockerized development environment
+- Professional technical documentation
+- GitHub Releases
 
 ### 🔗 Repository
 
 ➡️ **[MyST Docs Platform Repository](https://github.com/YoniAfengar/myst-docs-platform)**
-
 
 ### 🏷 Latest Release
 
@@ -88,47 +88,45 @@ Design and build a production-style documentation platform using MyST, Docker, a
 
 ---
 
-# 🚧 Upcoming Projects
+# 📊 Upcoming Projects
 
-Additional projects will be added as they are completed.
-
-* 🏀 NBA Analytics Dashboard
-* 📊 SQL Analytics Projects
-* 🐍 Python Automation Projects
-* ⚙️ Data Engineering Pipelines
-* ☁️ Docker & Cloud Projects
+- 📈 Data Analytics Portfolio
+- ⚙️ Enterprise ETL Pipelines
+- 🐍 Python Automation Projects
+- ☁️ Cloud & Containerized Applications
+- 🚀 End-to-End Data Engineering Projects
 
 ---
 
 # 📈 Engineering Journey
 
-I believe the best way to learn engineering is by building.
+I believe the best way to learn engineering is by building real projects.
 
-Every repository in this portfolio represents a complete project with clear objectives, version history, technical documentation, and continuous improvement.
+Each repository represents a complete solution with clear objectives, version history, technical documentation, and continuous improvement.
 
-Rather than collecting small code snippets, I focus on developing projects that resemble real production environments and demonstrate practical engineering skills.
+Rather than collecting isolated code snippets, I focus on creating production-grade projects that reflect real engineering practices and demonstrate practical problem-solving skills.
 
 ---
 
 # 📄 Resume
 
-My resume is currently being updated to reflect my latest Data Engineering projects and technical experience.
-
-It will be available here soon.
+📥 **[Download my latest Resume (PDF)](resume/Yonatan_Afengar_Resume.pdf)**
 
 ---
 
 # 📬 Contact
 
-- **GitHub:** https://github.com/YoniAfengar
-- **LinkedIn:** https://www.linkedin.com/in/yonatan-afengar-92bb18155/
+- 💻 GitHub: https://github.com/YoniAfengar
+- 💼 LinkedIn: https://www.linkedin.com/in/yonatan-afengar-92bb18155/
 
 ---
 
 # 🎯 Engineering Philosophy
 
-> **Learn deeply.**
+> **Build with purpose.**
 >
-> **Build professionally.**
+> **Write clean code.**
 >
 > **Document everything.**
+>
+> **Keep learning.**
