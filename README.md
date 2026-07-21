@@ -71,7 +71,7 @@ This portfolio documents my journey from Enterprise BI toward modern Data Engine
 
 ## 🚆 Trip Ingest Pipeline
 
-![Trip Ingest Pipeline](screenshots/trip-ingest 1.png)
+![Trip Ingest Pipeline](screenshots/trip-ingest_1.png)
 
 > **Production-style ETL pipeline for ingesting JSONL datasets into PostgreSQL using Python, Docker, Alembic, and automated testing.**
 
