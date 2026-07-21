@@ -1,58 +1,51 @@
 # 👋 Hi, I'm Yonatan Afengar
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-> **Senior BI Developer with 5+ years of experience delivering enterprise Business Intelligence solutions and expanding into modern Data Engineering through production-grade projects.**
+> **Senior BI Developer transitioning into Data Engineering through production-grade Python projects focused on ETL, automation, and modern software engineering practices.**
 
 ---
 
-# 👨‍💻 About This Portfolio
+# 👨‍💻 About
 
 Welcome to my engineering portfolio.
 
-This repository showcases hands-on projects that reflect my journey from Business Intelligence to modern Data Engineering.
+I'm a Senior BI Developer with over five years of experience building enterprise Business Intelligence solutions.
 
-Each project is built with the same principles I apply professionally:
+During the past year I've been expanding into modern Data Engineering by building complete, production-style projects using Python, PostgreSQL, Docker, automated testing, and engineering best practices.
 
-- Clean architecture
-- Reproducible environments
-- Technical documentation
-- Version control
-- Engineering best practices
-
-Rather than collecting small code samples, I focus on building complete, production-grade projects that solve real engineering problems.
+Rather than collecting small code snippets, I focus on building complete repositories that demonstrate real-world software development.
 
 ---
 
 # 💼 Professional Background
 
-I'm a Senior BI Developer with over five years of experience designing, developing, and maintaining enterprise Business Intelligence solutions.
+### Enterprise Experience
 
-My professional experience includes:
-
-- SQL & PL/SQL
+- Senior BI Developer
+- Enterprise ETL development
 - IBM InfoSphere DataStage
-- Enterprise ETL processes
-- Backend data integration
+- SQL / PL/SQL
+- Oracle
+- SQL Server
 - Data Warehousing
+- Backend data integration
 - Business Intelligence platforms
-- Python-based data processing
 
-Alongside my professional work, I continuously build engineering projects to deepen my expertise in Python, Docker, Git, Linux, Apache Airflow, PySpark, and modern Data Engineering practices.
+### Current Engineering Focus
 
----
-
-# 🚀 Current Focus
-
-- Building production-grade Data Engineering projects
-- Designing scalable ETL and data pipeline solutions
-- Expanding expertise in Apache Airflow & PySpark
-- Writing clean, maintainable technical documentation with MyST
-- Continuously improving software engineering practices
+- Python
+- PostgreSQL
+- Docker
+- Git
+- Linux
+- Apache Airflow
+- PySpark
+- Modern Data Engineering
 
 ---
 
@@ -60,99 +53,132 @@ Alongside my professional work, I continuously build engineering projects to dee
 
 | Category | Technologies |
 |-----------|--------------|
-| **Programming** | Python |
-| **Query Languages** | SQL, T-SQL, PL/SQL |
-| **Databases** | SQL Server, Oracle, PostgreSQL |
-| **BI & ETL** | IBM InfoSphere DataStage, SSIS, SSAS, Power BI |
-| **Engineering** | Docker, Git, Linux |
-| **Currently Learning** | Apache Airflow, PySpark, Modern Data Engineering |
+| Programming | Python |
+| Databases | PostgreSQL, SQL Server, Oracle |
+| Query Languages | SQL, T-SQL, PL/SQL |
+| BI & ETL | IBM InfoSphere DataStage, SSIS, SSAS, Power BI |
+| Data Engineering | Docker, Alembic, Git, Linux |
+| Testing | Pytest, MyPy |
+| Currently Learning | Apache Airflow, PySpark |
 
 ---
 
-# 🌟 Featured Project
+# 🚀 Featured Projects
+
+---
+
+## 🚆 Trip Ingest Pipeline
+
+> **Production-style ETL pipeline for ingesting JSONL trip data into PostgreSQL using Python, Docker, Alembic, and automated testing.**
+
+### Goal
+
+Build a production-style ingestion pipeline capable of validating, processing, and loading large JSONL datasets into PostgreSQL while supporting reproducible environments, idempotent loading, automated testing, and maintainable architecture.
+
+### Technologies
+
+- Python 3.12
+- PostgreSQL
+- Docker
+- Docker Compose
+- Alembic
+- Pytest
+- MyPy
+- JSONL
+- Git
+
+### Highlights
+
+- Streaming ingestion (memory efficient)
+- Batch inserts into PostgreSQL
+- Idempotent loading using ON CONFLICT
+- Automatic rejected-record handling
+- Database schema migrations with Alembic
+- Type-safe code verified with MyPy
+- End-to-end testing using Docker Compose
+- Clean layered project architecture
+- Production-style engineering workflow
+
+### Repository
+
+➡️ **[Trip Ingest Pipeline](https://github.com/YoniAfengar/trip-ingest)**
+
+---
 
 ## 📚 Developer Documentation Platform
 
 ![MyST Docs Platform](screenshots/myst-docs-platform.png)
 
-> **Production-grade documentation platform built with MyST Markdown, Docker, Git, Linux, and Jupyter Notebooks.**
+> **Production-grade documentation platform built with MyST Markdown, Docker, and Jupyter.**
 
-### 🎯 Project Goal
+### Goal
 
-Develop a production-grade documentation platform using MyST Markdown, Docker, and Jupyter while applying modern software engineering principles, version control, and containerized development workflows.
+Create a professional documentation platform demonstrating modern technical writing, reproducible environments, containerized development, and executable documentation.
 
-### 🛠 Technologies
+### Technologies
 
 - Python
-- MyST Markdown
 - Docker
 - Docker Compose
-- Git
-- GitHub
+- MyST Markdown
 - Jupyter Notebook
-- Markdown
+- Git
 
-### ⭐ Highlights
+### Highlights
 
-- Production-grade project architecture
-- Multi-page documentation
-- Interactive playground
-- Executable Jupyter notebooks
+- Production-grade documentation structure
+- Interactive documentation
+- Executable notebooks
 - Mermaid diagrams
-- MyST directives & roles
-- Cross references
-- Cards & tabs
-- Dockerized development environment
-- Professional technical documentation
+- Dockerized environment
 - GitHub Releases
+- Professional documentation workflow
 
-### 🔗 Repository
+### Repository
 
-➡️ **[MyST Docs Platform Repository](https://github.com/YoniAfengar/myst-docs-platform)**
-
-**Latest Release:** `v0.2.0`
-
----
-
-# 📂 Upcoming Projects
-
-- 📊 Data Analytics Portfolio
-- ⚙️ Enterprise ETL Pipeline
-- 🐍 Python Automation Toolkit
-- ☁️ Containerized Data Applications
-- 🚀 End-to-End Data Engineering Platform
+➡️ **[MyST Docs Platform](https://github.com/YoniAfengar/myst-docs-platform)**
 
 ---
 
-# 📈 Engineering Journey
+# 🎯 What I'm Learning Next
 
-I believe the best way to learn engineering is by building.
+- Apache Airflow
+- PySpark
+- Cloud Data Engineering
+- Distributed Data Processing
+- Production Data Platforms
 
-Every repository in this portfolio represents a complete project with clear objectives, technical documentation, version history, and continuous improvement.
+---
 
-My goal is not simply to learn new technologies, but to understand how they fit together to build reliable, maintainable, and scalable software solutions.
+# 📈 Engineering Philosophy
+
+I enjoy building complete software projects rather than isolated examples.
+
+Every repository in this portfolio focuses on solving a realistic engineering problem while emphasizing clean architecture, testing, documentation, reproducibility, and maintainability.
+
+My goal is to become a well-rounded Data Engineer by combining my enterprise BI experience with modern software engineering practices.
 
 ---
 
 # 📄 Resume
 
-📥 **[Download my latest Resume (PDF)](resume/Yonatan_Afengar_Resume.pdf)**
+📥 **[Download Resume (PDF)](resume/Yonatan_Afengar_Resume.pdf)**
 
 ---
 
 # 📬 Contact
 
-- 💻 GitHub: **https://github.com/YoniAfengar**
-- 💼 LinkedIn: **https://www.linkedin.com/in/yonatan-afengar-92bb18155/**
+- GitHub: https://github.com/YoniAfengar
+- LinkedIn: https://www.linkedin.com/in/yonatan-afengar-92bb18155/
 
 ---
 
-# 🎯 Engineering Philosophy
+# 💡 Engineering Principles
 
-> **Build with purpose.**
->
-> **Write clean code.**
->
-> **Document everything.**
->
-> **Keep learning.**
+> Build software that is reliable.
+
+> Write code that is maintainable.
+
+> Automate repetitive work.
+
+> Keep learning.
