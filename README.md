@@ -112,7 +112,7 @@ Build a production-ready ETL pipeline capable of validating, processing, and loa
 
 ## 📚 Developer Documentation Platform
 
-![MyST Docs Platform](screenshots/myst-docs-platform.png)
+![MyST Docs Platform](screenshots/myst-docs-platform_1.png)
 
 > **Production-ready documentation platform built with MyST Markdown, Docker, Python, and Jupyter Notebooks.**
 
