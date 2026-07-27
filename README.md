@@ -69,6 +69,45 @@ This portfolio documents my journey from Enterprise BI toward modern Data Engine
 
 ---
 
+## 🏥 Life & Health Insurance Business Analytics
+
+![Life & Health Insurance Business Analytics](screenshots/life-health-insurance.png)
+
+> Business-oriented exploratory analysis of synthetic life and health insurance claims using Python, pandas, Matplotlib, reusable analytical modules, automated validation, and unit testing.
+
+### 🎯 Project Goal
+
+Analyze life and health insurance claim data to identify distribution patterns, assess data quality, compare claim severity across customer groups, and produce clear business insights through a reproducible analytics workflow.
+
+### 🛠 Technologies
+
+- Python 3.12+
+- pandas
+- Matplotlib
+- Jupyter Notebook
+- Pytest
+- Ruff
+- uv
+- Git
+
+### ⭐ Highlights
+
+- Business-oriented exploratory data analysis
+- Automated data validation
+- Statistical summaries
+- Reusable analytical modules
+- Business-focused visualizations
+- Unit testing with Pytest
+- Code-quality validation with Ruff
+- Reproducible dependency management with uv
+- Executive summary and documented methodology
+
+### 🔗 Repository
+
+➡️ [https://github.com/YoniAfengar/life-health-insurance-business-analytics](https://github.com/YoniAfengar/life-health-insurance-business-analytics)
+
+---
+
 ## 🚆 Trip Ingest Pipeline
 
 ![Trip Ingest Pipeline](screenshots/trip-ingest_1.png)
