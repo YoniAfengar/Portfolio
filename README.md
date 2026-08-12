@@ -6,27 +6,27 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-> **Senior BI Developer with 5+ years of enterprise experience, expanding into modern Data Engineering through production-ready Python projects.**
+> **Data Engineer with 5+ years of experience across enterprise BI, ETL, data integration, and data systems — building reliable data solutions with Python, SQL, PostgreSQL, and modern engineering practices.**
 
 ---
 
 # 👨‍💻 About
 
-Welcome to my engineering portfolio.
+I'm a Data Engineer with over five years of experience across enterprise Business Intelligence, ETL development, data integration, and data warehousing.
 
-I'm a Senior BI Developer with over five years of experience designing and delivering enterprise Business Intelligence and ETL solutions.
+My professional background includes building enterprise data solutions with IBM InfoSphere DataStage, SQL, PL/SQL, Oracle, and SQL Server.
 
-Alongside my professional work, I build production-ready Python and Data Engineering projects that emphasize clean architecture, reproducible environments, automated testing, technical documentation, and modern engineering best practices.
+Alongside that foundation, I work with modern Data Engineering technologies and practices including Python, PostgreSQL, Docker, automated testing, type safety, reproducible environments, and Git-based development workflows.
 
-This portfolio documents my journey from Enterprise BI toward modern Data Engineering.
+This portfolio showcases projects focused on data pipelines, data structures, analytics, and engineering practices — with an emphasis on reliability, maintainability, performance, and clear technical decision-making.
 
 ---
 
 # 💼 Professional Background
 
-## Enterprise Experience
+My experience spans both traditional enterprise data platforms and modern Data Engineering.
 
-- Senior BI Developer
+- Data Engineering
 - Enterprise ETL Development
 - IBM InfoSphere DataStage
 - SQL / PL/SQL
@@ -40,32 +40,117 @@ This portfolio documents my journey from Enterprise BI toward modern Data Engine
 
 # 🚀 Current Focus
 
-- Python Development
+- Python
 - Data Engineering
-- ETL Pipelines
+- ETL & Data Pipelines
 - PostgreSQL
 - Docker
-- Git
 - Apache Airflow
 - PySpark
+- Cloud Data Engineering
+- Data Platform Architecture
 
 ---
 
 # 🛠 Technical Skills
 
 | Category | Technologies |
-|-----------|--------------|
+|---|---|
 | **Programming** | Python |
 | **Databases** | PostgreSQL, SQL Server, Oracle |
 | **Query Languages** | SQL, T-SQL, PL/SQL |
-| **BI & ETL** | IBM InfoSphere DataStage, SSIS, SSAS, Power BI |
+| **Data Engineering & ETL** | IBM InfoSphere DataStage, SSIS, ETL Pipelines, Data Integration |
+| **BI & Analytics** | Power BI, SSAS, Data Warehousing |
 | **Engineering** | Docker, Git, Linux, Alembic |
-| **Testing** | Pytest, MyPy |
-| **Currently Learning** | Apache Airflow, PySpark |
+| **Testing & Quality** | Pytest, MyPy, Ruff |
+| **Currently Expanding** | Apache Airflow, PySpark, Cloud Data Engineering |
 
 ---
 
 # 🚀 Featured Projects
+
+## 🚆 Trip Ingest Pipeline
+
+![Trip Ingest Pipeline](screenshots/trip-ingest_1.png)
+
+> **Production-style ETL pipeline for validating, processing, and loading JSONL datasets into PostgreSQL using Python, Docker, Alembic, and automated testing.**
+
+### 🎯 Project Goal
+
+Build a reliable ingestion pipeline capable of processing JSONL datasets, validating individual records, loading valid data into PostgreSQL, isolating rejected records, and supporting safe reruns.
+
+The project focuses on the engineering concerns surrounding a real ingestion workflow rather than only moving data from one place to another.
+
+### 🛠 Technologies
+
+- Python
+- PostgreSQL
+- Psycopg
+- Docker
+- Docker Compose
+- Alembic
+- Pytest
+- MyPy
+- uv
+- Git
+
+### ⭐ Highlights
+
+- JSONL ingestion and validation
+- Configurable batch loading
+- PostgreSQL persistence
+- Idempotent reruns with conflict handling
+- Per-record reject isolation
+- Automated database migrations
+- PostgreSQL-backed concurrency control
+- Structured ingestion summaries
+- Dockerized development environment
+- Automated testing with Pytest
+- Strict static type checking with MyPy
+
+### 🔗 Repository
+
+➡️ **https://github.com/YoniAfengar/trip-ingest**
+
+---
+
+## 🧠 Right Data Structure
+
+![Right Data Structure](screenshots/right-structure.png)
+
+> **Workload-driven Python project exploring how changing business requirements force different data-structure decisions and performance trade-offs.**
+
+### 🎯 Project Goal
+
+Design efficient solutions for changing business queries by selecting data structures based on access patterns and explicit computational-cost requirements.
+
+The project demonstrates how the correct representation changes as the workload evolves — and why an efficient solution for one requirement may become the wrong solution for the next.
+
+### 🛠 Technologies
+
+- Python 3.11+
+- Pytest
+- MyPy
+- uv
+- Git
+- Data Structures
+- Algorithms
+
+### ⭐ Highlights
+
+- O(1) station lookups with hash-based indexing
+- Multiple access patterns using dedicated indexes
+- Top-K selection with a manually implemented Min Heap
+- Binary search for time-range boundaries
+- Prefix sums for O(1) range aggregation
+- Recursive traversal of irregular tree structures
+- Operation-count based performance validation
+- Strict static type checking with MyPy
+- Analysis of read-heavy vs. write-heavy design trade-offs
+
+### 🔗 Repository
+
+➡️ **https://github.com/YoniAfengar/right-structure**
 
 ---
 
@@ -73,7 +158,7 @@ This portfolio documents my journey from Enterprise BI toward modern Data Engine
 
 ![Life & Health Insurance Business Analytics](screenshots/life-health-insurance.png)
 
-> Business-oriented exploratory analysis of synthetic life and health insurance claims using Python, pandas, Matplotlib, reusable analytical modules, automated validation, and unit testing.
+> **Business-oriented exploratory analysis of synthetic life and health insurance claims using Python, pandas, Matplotlib, reusable analytical modules, automated validation, and unit testing.**
 
 ### 🎯 Project Goal
 
@@ -104,48 +189,7 @@ Analyze life and health insurance claim data to identify distribution patterns, 
 
 ### 🔗 Repository
 
-➡️ [https://github.com/YoniAfengar/life-health-insurance-business-analytics](https://github.com/YoniAfengar/life-health-insurance-business-analytics)
-
----
-
-## 🚆 Trip Ingest Pipeline
-
-![Trip Ingest Pipeline](screenshots/trip-ingest_1.png)
-
-> **Production-style ETL pipeline for ingesting JSONL datasets into PostgreSQL using Python, Docker, Alembic, and automated testing.**
-
-### 🎯 Project Goal
-
-Build a production-ready ETL pipeline capable of validating, processing, and loading large JSONL datasets into PostgreSQL while supporting reproducible development environments, automated testing, and maintainable architecture.
-
-### 🛠 Technologies
-
-- Python 3.12
-- PostgreSQL
-- Docker
-- Docker Compose
-- Alembic
-- Pytest
-- MyPy
-- JSONL
-- Git
-
-### ⭐ Highlights
-
-- Stream-based ingestion
-- Batch ETL processing
-- Idempotent loading
-- Reject handling
-- PostgreSQL integration
-- Alembic database migrations
-- Dockerized development
-- End-to-end testing
-- Static type checking with MyPy
-- Production-style architecture
-
-### 🔗 Repository
-
-➡️ **https://github.com/YoniAfengar/trip-ingest**
+➡️ **https://github.com/YoniAfengar/life-health-insurance-business-analytics**
 
 ---
 
@@ -153,11 +197,11 @@ Build a production-ready ETL pipeline capable of validating, processing, and loa
 
 ![MyST Docs Platform](screenshots/myst-docs-platform_1.png)
 
-> **Production-ready documentation platform built with MyST Markdown, Docker, Python, and Jupyter Notebooks.**
+> **Technical documentation platform built with MyST Markdown, Docker, Python, and Jupyter Notebooks.**
 
 ### 🎯 Project Goal
 
-Develop a modern technical documentation platform demonstrating reproducible environments, executable documentation, version control, and engineering best practices.
+Build a reproducible technical documentation environment supporting executable content, version control, diagrams, notebooks, and containerized development.
 
 ### 🛠 Technologies
 
@@ -170,13 +214,13 @@ Develop a modern technical documentation platform demonstrating reproducible env
 
 ### ⭐ Highlights
 
-- Professional documentation platform
+- Structured technical documentation
 - Interactive notebooks
 - Mermaid diagrams
 - Cross references
 - Dockerized environment
 - GitHub Releases
-- Production-ready documentation workflow
+- Reproducible documentation workflow
 
 ### 🔗 Repository
 
@@ -186,22 +230,26 @@ Develop a modern technical documentation platform demonstrating reproducible env
 
 # 🎯 What's Next
 
-The next projects planned for this portfolio include:
+The next stage of this portfolio focuses on larger Data Engineering systems:
 
-- Apache Airflow Orchestration
-- PySpark Data Processing
-- Cloud Data Engineering (AWS)
-- End-to-End Data Platform
+- Apache Airflow orchestration
+- PySpark data processing
+- Cloud Data Engineering
+- End-to-end data platform development
+
+The goal is to combine these technologies in increasingly complete systems rather than treating them as isolated tools.
 
 ---
 
 # 📈 Engineering Philosophy
 
-I believe the best way to learn software engineering is by building real projects.
+Good Data Engineering is not only about moving data.
 
-Each repository in this portfolio focuses on solving practical engineering problems while emphasizing clean architecture, automation, testing, documentation, and maintainability.
+It is about making deliberate decisions around reliability, performance, maintainability, data quality, and operational simplicity.
 
-My goal is to combine enterprise Business Intelligence experience with modern software engineering practices to build reliable, scalable data platforms.
+My approach is to understand the problem first, choose the appropriate architecture and tools, and build systems whose behavior can be tested and explained.
+
+The projects in this portfolio reflect that approach — from ingestion and data modeling to algorithmic trade-offs, analytics, testing, and documentation.
 
 ---
 
@@ -220,12 +268,12 @@ My goal is to combine enterprise Business Intelligence experience with modern so
 
 # 💡 Engineering Principles
 
-> Build reliable software.
+> Build for the workload.
 
-> Write maintainable code.
+> Make data reliable.
 
-> Automate repetitive work.
+> Test what matters.
 
-> Keep learning.
+> Keep systems understandable.
 
 > Deliver value.
