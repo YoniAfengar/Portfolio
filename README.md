@@ -114,6 +114,52 @@ The project focuses on the engineering concerns surrounding a real ingestion wor
 
 ---
 
+## 🧪 Pipeline TDD
+
+![Pipeline TDD](screenshots/pipeline-tdd.png)
+
+> **Test-first PostgreSQL ingestion pipeline focused on reliability, transaction boundaries, integration testing, and mutation-tested behavior.**
+
+### 🎯 Project Goal
+
+Build a dock-event ingestion pipeline entirely through Test-Driven Development, using real PostgreSQL integration tests and production-style database migrations.
+
+The project focuses on proving pipeline behavior under realistic failure conditions — including malformed input, duplicate events, foreign-key violations, transaction rollback, committed writes, and idempotent reruns.
+
+### 🛠 Technologies
+
+- Python
+- PostgreSQL
+- Psycopg
+- Testcontainers
+- Docker
+- Alembic
+- Pytest
+- MyPy
+- uv
+- Git
+
+### ⭐ Highlights
+
+- Strict RED → GREEN → REFACTOR development workflow
+- Real PostgreSQL integration tests with Testcontainers
+- Real Alembic migrations applied inside the test environment
+- Transaction rollback isolation for database tests
+- TRUNCATE-based isolation for committed pipeline runs
+- Database-enforced foreign-key integrity
+- Idempotent loading with `ON CONFLICT DO NOTHING`
+- Malformed-row handling without terminating the pipeline
+- Mutation testing with 3/3 deliberately broken implementations detected
+- Automated source-size gate
+- 23 passing tests
+- Strict static type checking with MyPy
+
+### 🔗 Repository
+
+➡️ **https://github.com/YoniAfengar/pipeline-tdd**
+
+---
+
 ## 🧠 Right Data Structure
 
 ![Right Data Structure](screenshots/right-structure.png)
